@@ -258,6 +258,7 @@ text-transform: capitalize;}
 
 .last-division{ display:flex;
  }
+ .divi-para{margin-left: 50px;}
 .last-button{margin-left: 1000px;
 background-color: #070211;
 color: #FFF;
