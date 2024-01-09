@@ -157,8 +157,12 @@ border: 15px solid #F00;
 
     .new-child-4{width: 140px;
         height: 140px;
-        flex-shrink: 0;} #container{ width: 1600px; height: 500px;
-  display:grid; grid-template-columns: 1fr 1fr 1fr;
+        flex-shrink: 0;} 
+        
+        #container{ width: 1600px; 
+            height: 500px;
+  display:grid;
+   grid-template-columns: 1fr 1fr 1fr;
 
 }
 .item-1{text-align: center;}
@@ -268,7 +272,7 @@ font-style: normal;
 font-weight: 500;
 border:none;}
 
-.divi-para{margin-left: 50px;}
+
 
       
 
